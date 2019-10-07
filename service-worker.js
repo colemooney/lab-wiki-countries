@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "://colemooney.github.io/lab-wiki-countries.git/precache-manifest.790b7dfbfee7fdd6766a31b536d5d6b0.js"
+  "/lab-wiki-countries.git/precache-manifest.017d0b80ee3145196ce5cd7e701c3cd6.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("://colemooney.github.io/lab-wiki-countries.git/index.html", {
+workbox.routing.registerNavigationRoute("/lab-wiki-countries.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

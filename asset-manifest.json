@@ -1,15 +1,15 @@
 {
-  "main.css": "://colemooney.github.io/lab-wiki-countries.git/static/css/main.c3d8efdd.chunk.css",
-  "main.js": "://colemooney.github.io/lab-wiki-countries.git/static/js/main.c67b964c.chunk.js",
-  "main.js.map": "://colemooney.github.io/lab-wiki-countries.git/static/js/main.c67b964c.chunk.js.map",
-  "static/css/1.8d086993.chunk.css": "://colemooney.github.io/lab-wiki-countries.git/static/css/1.8d086993.chunk.css",
-  "static/js/1.d8c38291.chunk.js": "://colemooney.github.io/lab-wiki-countries.git/static/js/1.d8c38291.chunk.js",
-  "static/js/1.d8c38291.chunk.js.map": "://colemooney.github.io/lab-wiki-countries.git/static/js/1.d8c38291.chunk.js.map",
-  "runtime~main.js": "://colemooney.github.io/lab-wiki-countries.git/static/js/runtime~main.f91c46a5.js",
-  "runtime~main.js.map": "://colemooney.github.io/lab-wiki-countries.git/static/js/runtime~main.f91c46a5.js.map",
-  "static/css/1.8d086993.chunk.css.map": "://colemooney.github.io/lab-wiki-countries.git/static/css/1.8d086993.chunk.css.map",
-  "static/css/main.c3d8efdd.chunk.css.map": "://colemooney.github.io/lab-wiki-countries.git/static/css/main.c3d8efdd.chunk.css.map",
-  "index.html": "://colemooney.github.io/lab-wiki-countries.git/index.html",
-  "precache-manifest.790b7dfbfee7fdd6766a31b536d5d6b0.js": "://colemooney.github.io/lab-wiki-countries.git/precache-manifest.790b7dfbfee7fdd6766a31b536d5d6b0.js",
-  "service-worker.js": "://colemooney.github.io/lab-wiki-countries.git/service-worker.js"
+  "main.css": "/lab-wiki-countries.git/static/css/main.c3d8efdd.chunk.css",
+  "main.js": "/lab-wiki-countries.git/static/js/main.46245dae.chunk.js",
+  "main.js.map": "/lab-wiki-countries.git/static/js/main.46245dae.chunk.js.map",
+  "static/css/1.8d086993.chunk.css": "/lab-wiki-countries.git/static/css/1.8d086993.chunk.css",
+  "static/js/1.d8c38291.chunk.js": "/lab-wiki-countries.git/static/js/1.d8c38291.chunk.js",
+  "static/js/1.d8c38291.chunk.js.map": "/lab-wiki-countries.git/static/js/1.d8c38291.chunk.js.map",
+  "runtime~main.js": "/lab-wiki-countries.git/static/js/runtime~main.948fc2bf.js",
+  "runtime~main.js.map": "/lab-wiki-countries.git/static/js/runtime~main.948fc2bf.js.map",
+  "static/css/1.8d086993.chunk.css.map": "/lab-wiki-countries.git/static/css/1.8d086993.chunk.css.map",
+  "static/css/main.c3d8efdd.chunk.css.map": "/lab-wiki-countries.git/static/css/main.c3d8efdd.chunk.css.map",
+  "index.html": "/lab-wiki-countries.git/index.html",
+  "precache-manifest.017d0b80ee3145196ce5cd7e701c3cd6.js": "/lab-wiki-countries.git/precache-manifest.017d0b80ee3145196ce5cd7e701c3cd6.js",
+  "service-worker.js": "/lab-wiki-countries.git/service-worker.js"
 }
